@@ -1,5 +1,5 @@
 {
-  "domain": "meteo_france_lolo",
+  "domain": "meteo-france-lolo",
   "name": "Météo-France-lolo",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/",
