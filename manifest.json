@@ -1,6 +1,6 @@
 {
-  "domain": "meteo_france",
-  "name": "M\u00e9t\u00e9o-France",
+  "domain": "meteo_france_lolo",
+  "name": "M\u00e9t\u00e9o-France-lolo",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/meteo_france",
   "requirements": ["meteofrance-api==1.0.2"],
