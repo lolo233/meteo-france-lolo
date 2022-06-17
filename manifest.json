@@ -2,10 +2,13 @@
   "domain": "meteololo",
   "name": "Test lolo",
   "config_flow": true,
+  "dependencies": [],
   "documentation": "https://github.com/lolo233/meteololo",
   "issue_tracker": "https://github.com/lolo233/meteololo/issues",
   "requirements": ["meteofrance-api==1.0.2"],
   "codeowners": ["@hacf-fr", "@oncleben31", "@Quentame"],
   "iot_class": "cloud_polling",
-  "loggers": ["meteofrance_api"]
+  "loggers": ["meteofrance_api"],
+  "version": "0.1"
 }
+
