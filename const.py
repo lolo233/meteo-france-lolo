@@ -35,7 +35,7 @@ from homeassistant.const import (
     Platform,
 )
 
-DOMAIN = "meteo_france"
+DOMAIN = "meteololo"
 PLATFORMS = [Platform.SENSOR, Platform.WEATHER]
 COORDINATOR_FORECAST = "coordinator_forecast"
 COORDINATOR_RAIN = "coordinator_rain"
