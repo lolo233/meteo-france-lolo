@@ -1,6 +1,6 @@
 {
-  "domain": "meteo-france-lolo",
-  "name": "Météo-France-lolo",
+  "domain": "meteololo",
+  "name": "Test lolo",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/",
   "requirements": ["meteofrance-api==1.0.2"],
