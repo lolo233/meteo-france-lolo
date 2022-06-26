@@ -1,2 +1,2 @@
 # meteo-france-lolo
-test
+Test meteo france integration

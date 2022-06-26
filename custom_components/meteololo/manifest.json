@@ -9,6 +9,6 @@
   "codeowners": ["@hacf-fr", "@oncleben31", "@Quentame"],
   "iot_class": "cloud_polling",
   "loggers": ["meteofrance_api"],
-  "version": "0.2"
+  "version": "0.3"
 }
 
