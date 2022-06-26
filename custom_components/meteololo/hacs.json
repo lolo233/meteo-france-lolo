@@ -1,5 +1,5 @@
 
 {
-    "name": "Meteo France integration custom lolo",
+    "name": "Meteo France integration custom forecast data",
     "iot_class": "cloud_polling"
 }
