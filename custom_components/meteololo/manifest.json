@@ -1,6 +1,6 @@
 {
   "domain": "meteololo",
-  "name": "Test lolo",
+  "name": "Test Meteo lolo",
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/lolo233/meteololo",

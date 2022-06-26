@@ -152,11 +152,10 @@ class MeteoFranceWeather(CoordinatorEntity, WeatherEntity):
                     continue
                 forecast_data.append(
                     {
-                        ATTR_FORECAST_TIME: forecast["dt"],
+                        ATTR_FORECAST_TIME: "2022-07-26T02:00:00+02:00"
+                        # forecast["dt"],
                         #dt_util.utc_from_timestamp(forecast["dt"]).isoformat(),
-                        ATTR_FORECAST_CONDITION: format_condition(
-                            forecast["weather"]["desc"]
-                        ),
+                        ATTR_FORECAST_CONDITION: format_condition(forecast["weather"]["desc"]),
                         ATTR_FORECAST_TEMP: forecast["T"]["value"],
                         ATTR_FORECAST_PRECIPITATION: forecast["rain"].get("1h"),
                         ATTR_FORECAST_WIND_SPEED: forecast["wind"]["speed"],
