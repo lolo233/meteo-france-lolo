@@ -1,1 +1,1 @@
-Meteo france integration with json complient datetime forecast
+Meteo france integration with forecast datetime changed
